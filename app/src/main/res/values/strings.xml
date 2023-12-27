@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Project_1</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="android_news">Android News</string>
+    <string name="term_search">Term Search</string>
+    <string name="enter_your_search_query">Enter your search query</string>
+    <string name="news_by_location">News by Location</string>
+    <string name="search">SEARCH</string>
+    <string name="viewmap">VIEWMAP</string>
+    <string name="top_headlines">Top Headlines</string>
+    <string name="view_top_headlines">VIEW TOP HEADLINES</string>
+    <string name="results_for_location">Results for LOCATION</string>
+    <string name="results_for_quot_term_quot">Results for: \"Term\"</string>
+    <string name="categories">Categories</string>
+    <string name="search_for_quot_term_quot">Search for: \"Term\"</string>
+    <string name="skip_search_all_sources">SKIP (SEARCH ALL SOURCES)</string>
+    <string name="sources">Sources</string>
+    <string name="textview">TextView</string>
+    <string name="textviewb">TextView</string>
+</resources>
